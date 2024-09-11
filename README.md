@@ -1,3 +1,5 @@
+The folk was created to create a fixed version that can run without any issues with the new numpy and haiku release.
+
 # ColabDesign
 ### Making Protein Design accessible to all via Google Colab! 
 - P(structure | sequence)
