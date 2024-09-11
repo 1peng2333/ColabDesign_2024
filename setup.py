@@ -9,7 +9,7 @@ setup(
     install_requires=['py3Dmol','absl-py','biopython',
                       'chex','dm-haiku','dm-tree',
                       'immutabledict','jax','ml-collections',
-                      'numpy','pandas','scipy','optax','joblib',
+                      'numpy==1.20.1','pandas','scipy','optax','joblib',
                       'matplotlib'],
     include_package_data=True
 )
